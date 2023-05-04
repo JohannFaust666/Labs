@@ -1,0 +1,2 @@
+Linux kernel version: $ uname -r
+                      5.19.0-41-generic
